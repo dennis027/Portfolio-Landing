@@ -24,6 +24,7 @@ body{
 }
 .intro img {
     float: left;
+    margin-left: 350px;
 }
 .name{
     color: azure;
@@ -34,4 +35,10 @@ body{
 }
 .head{
     color: azure;
+}
+.column{
+    display: flex;
+    float: left;
+    width: 50%;
+    padding: 10px;
 }

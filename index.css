@@ -1,3 +1,10 @@
+body{
+    background-image: url(images/hackers.jpeg);opacity: 0.9;
+    background-attachment: local;
+}
+.intro{
+    background-color: aqua;
+}
 .favourite , .anitas , .hotels , .dairly{
     background-color: aqua;
     margin-left: 30px;
@@ -5,5 +12,18 @@
     margin-right: 40px;
     border: 100 px solid black;
     padding: 10px;
+    display: flex;
 }
 
+.favourite img{
+    float: right;
+}
+.anitas img{
+    float: left;
+}
+.intro img {
+    float: left;
+}
+.name{
+    color: azure;
+}

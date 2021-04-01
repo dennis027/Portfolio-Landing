@@ -4,6 +4,7 @@ body{
 }
 .intro{
     background-color: aqua;
+    text-align: center;
 }
 .favourite , .anitas , .hotels , .dairly{
     background-color: aqua;
@@ -25,5 +26,12 @@ body{
     float: left;
 }
 .name{
+    color: azure;
+}
+.me{
+    background-color: aqua;
+    
+}
+.head{
     color: azure;
 }

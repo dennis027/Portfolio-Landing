@@ -10,9 +10,11 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone `$ git clone https://github.com/Kimani123456789/hotels_visits.git
+1. Use this command to clone `$ git clone https://github.com/dennis027/Portfolio-Landing.git
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__
+### Contacts
+You can reach me through my email @ machariad196@gmail.com or contact +254799157137
 ### Technologies Used
 1. HTML
 1. CSS
